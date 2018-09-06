@@ -1,1 +1,6 @@
 .idea/
+model/Manager.php
+admin/model/Manager.php
+admin/.htaccess
+admin/.htpasswd
+public/images/recettes
