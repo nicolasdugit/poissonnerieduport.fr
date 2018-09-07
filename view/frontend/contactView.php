@@ -30,7 +30,8 @@
 								</div>
 								<div class="col-md-7 col-md-push-1 animate-box">
 									<div class="row">
-										<form action="index.php?action=sentMail" method="post">
+										<!--<form action="index.php?action=sentMail" method="post">-->
+										<form action="https://formspree.io/elise@poissonnerieduport.fr" method="post">
 											<div class="col-md-6">
 												<div class="form-group">
 													<input name="subject" type="text" class="form-control" placeholder="Sujet">
