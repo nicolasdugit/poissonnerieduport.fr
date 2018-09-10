@@ -4,7 +4,6 @@
 <?php $pageTitle = 'Les plateaux "tout faits"' ?>
 
 <?php ob_start(); ?>
-
 <?php require('view/frontend/templates/headerSecondary.php'); ?>
 
 <div id="colorlib-contact">
