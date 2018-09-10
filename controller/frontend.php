@@ -1,6 +1,5 @@
 <?php
 
-
 require_once('../model/MailManager.php');
 require_once('../model/RecetteManager.php');
 
@@ -9,7 +8,7 @@ function showHomePage()
 	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 	
 	$recettes = $recetteManager->getRecettes();
-	require('view/frontend/homePage.php');
+	require('../view/frontend/homePage.php');
 }
 
 function contactPage()
