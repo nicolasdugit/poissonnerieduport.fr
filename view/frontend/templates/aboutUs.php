@@ -9,7 +9,7 @@
 										<h2>Découvrez les saveurs du Bassin d'Arcachon <br> Nous vous servons depuis 2010</h2>
 									</div>
 									<div class="col-md-12 animate-box">
-										<a href="index.php?page=notreEquipe" class="btn btn-primary btn-lg btn-learn">Notre Equipe</a>
+										<a href="../../../index.php?page=notreEquipe" class="btn btn-primary btn-lg btn-learn">Notre Equipe</a>
 									</div>
 								</div>
 							</div>
@@ -17,7 +17,7 @@
 						<div class="col-md-7">
 							<div class="row">
 								<div class="col-md-12 animate-box">
-									<div class="about-img rounded" style="background-image: url(public/images/exterieur.jpg);"></div>
+									<div class="about-img rounded" style="background-image: url(../../../public/images/exterieur.jpg);"></div>
 								</div>
 							</div>
 						</div>
