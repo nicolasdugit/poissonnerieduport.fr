@@ -22,36 +22,36 @@
 		<meta name="twitter:card" content="summary" />
 
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-		<link rel="shortcut icon" href="public/images/logo-chez-elise.png">
+		<link rel="shortcut icon" href="../../../public/images/logo-chez-elise.png">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">	
 
 		<!-- Animate.css -->
-		<link rel="stylesheet" href="public/css/animate.css">
+		<link rel="stylesheet" href="../../../public/css/animate.css">
 		<!-- Icomoon Icon Fonts-->
-		<link rel="stylesheet" href="public/css/icomoon.css">
+		<link rel="stylesheet" href="../../../public/css/icomoon.css">
 		<!-- Bootstrap  -->
-		<link rel="stylesheet" href="public/css/bootstrap.css">
+		<link rel="stylesheet" href="../../../public/css/bootstrap.css">
 		<!-- Owl Carousel -->
-		<link rel="stylesheet" href="public/css/owl.carousel.min.css">
-		<link rel="stylesheet" href="public/css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="../../../public/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="../../../public/css/owl.theme.default.min.css">
 		<!-- Magnific Popup -->
-		<link rel="stylesheet" href="public/css/magnific-popup.css">
+		<link rel="stylesheet" href="../../../public/css/magnific-popup.css">
 		<!-- Flexslider  -->
-		<link rel="stylesheet" href="public/css/flexslider.css">
+		<link rel="stylesheet" href="../../../public/css/flexslider.css">
 		<!-- Flaticons  -->
-		<link rel="stylesheet" href="public/fonts/flaticon/font/flaticon.css">
+		<link rel="stylesheet" href="../../../public/fonts/flaticon/font/flaticon.css">
 		<!-- Date Picker -->
-		<link rel="stylesheet" href="public/css/bootstrap-datepicker.css">
-		<link rel="stylesheet" href="public/css/style.css">	
+		<link rel="stylesheet" href="../../../public/css/bootstrap-datepicker.css">
+		<link rel="stylesheet" href="../../../public/css/style.css">
 		<!-- Fontawesome -->
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 		<!-- Mapbox -->
 		<script src='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
 		<link href='https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
 		<!-- Modernizr JS -->
-		<script src="public/js/modernizr-2.6.2.min.js"></script>
+		<script src="../../../public/js/modernizr-2.6.2.min.js"></script>
 		<!-- FOR IE9 below -->
 		<!--[if lt IE 9]>
-		<script src="js/respond.min.js"></script>
+		<script src="../../../public/js/respond.min.js"></script>
 		<![endif]-->
