@@ -5,7 +5,7 @@
 
 <?php ob_start(); ?>
 
-<?php require('view/frontend/templates/headerSecondary.php'); ?>
+<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
 
 <div id="colorlib-contact">
 	<div class="container">
@@ -39,7 +39,7 @@
 			<div class="col-md-3 animate-box">
 				<h3 class="text-center">Autre recettes :</h3>
 				<?php foreach (array_slice($recettes, 0, 5) as $recette) : ?>
-					<h4><a href="index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h4>
+					<h4><a href="../../index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h4>
 				<?php endforeach ; ?>
 			</div>
 		</div>
@@ -48,4 +48,4 @@
 
 <?php $content = ob_get_clean(); ?>
 
-<?php require('view/frontend/templates/template.php'); ?>
+<?php require('../../view/frontend/templates/template.php'); ?>
