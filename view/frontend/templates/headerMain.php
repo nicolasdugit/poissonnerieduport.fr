@@ -67,7 +67,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(public/images/img_bg_4.jpg);">
+				   	<li style="background-image: url(public/images/curry-poisson.jpg);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
