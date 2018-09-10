@@ -5,7 +5,7 @@
 
 <?php ob_start(); ?>
 
-<?php require('view/frontend/templates/headerSecondary.php'); ?>
+<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
 
 			<div id="colorlib-contact">
 				<div class="container">
@@ -17,7 +17,7 @@
 					<div class="row">
 						<div class="col-md-4 text-center animate-box">
 							<div class="chef-wrap">
-								<div class="chef-img" style="background-image: url(public/images/elise.jpg);"></div>
+								<div class="chef-img" style="background-image: url(../../public/images/elise.jpg);"></div>
 								<div class="desc">
 									<h3>Elise</h3>
 									<span>Après des études de Biologie Marine, Élise s'installe sur le Bassin en 2008 et commence par travailler sur le port et la criée d'Arcachon, en contact notamment avec les pêcheurs. Elle y découvre le métier de marin pêcheur, ses réalités, les différentes espèces locales, les techniques de pêche, le fonctionnement de la filière marée ... C'est là aussi qu'elle rencontre son mari, Christophe Michaud, pêcheur passionné du Bassin, à bord de son bateau, le KIKI III.</span>
@@ -26,19 +26,19 @@
 						</div>
 						<div class="col-md-4 text-center animate-box">
 							<div class="chef-wrap">
-								<div class="chef-img" style="background-image: url(public/images/elise-estelle.jpg); background-position: right;"></div>
+								<div class="chef-img" style="background: url(../../public/images/elise-estelle.jpg) right;"></div>
 								<div class="desc">
 									<h3>Estelle</h3>
-									<span>Estelle est arrivée en juin 2014, après un apprentissage en poissonnerie. Elle s’occupe, entre autres, de monter <a href="index.php?page=notreBanc">le banc de poisson</a> tous les matins, du service des clients, de la préparation des plateaux de fruits de mer, des marinades de poissons, … Dynamique, volontaire, passionnée, elle toujours envie de se perfectionner.</span>
+									<span>Estelle est arrivée en juin 2014, après un apprentissage en poissonnerie. Elle s’occupe, entre autres, de monter <a href="../../index.php?page=notreBanc">le banc de poisson</a> tous les matins, du service des clients, de la préparation des plateaux de fruits de mer, des marinades de poissons, … Dynamique, volontaire, passionnée, elle toujours envie de se perfectionner.</span>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 text-center animate-box">
 							<div class="chef-wrap">
-								<div class="chef-img" style="background-image: url(public/images/pierre.jpg); background-position: left;"></div>
+								<div class="chef-img" style="background: url(../../public/images/pierre.jpg) left;"></div>
 								<div class="desc">
 									<h3>Pierre</h3>
-									<span>Pierre, arrivé en remplacement en 2015, fait dorénavant partie de l’équipe. Il a occupé auparavant de nombreux postes : cuisinier, ostréiculteur, poissonnier, et a su apporter son expérience au service de la poissonnerie. Il s’occupe principalement de la <a href="index.php?page=platCuisine">partie traiteur</a> (c’est un fin cuisinier … et blagueur) mais aussi du service des clients et préparation des plateaux de fruits de mer.</span>
+									<span>Pierre, arrivé en remplacement en 2015, fait dorénavant partie de l’équipe. Il a occupé auparavant de nombreux postes : cuisinier, ostréiculteur, poissonnier, et a su apporter son expérience au service de la poissonnerie. Il s’occupe principalement de la <a href="../../index.php?page=platCuisine">partie traiteur</a> (c’est un fin cuisinier … et blagueur) mais aussi du service des clients et préparation des plateaux de fruits de mer.</span>
 								</div>
 							</div>
 						</div>
@@ -64,4 +64,4 @@
 
 <?php $content = ob_get_clean(); ?>
 
-<?php require('view/frontend/templates/template.php'); ?>
+<?php require('../../view/frontend/templates/template.php'); ?>
