@@ -1,85 +1,76 @@
 <?php
-use Poissonnerieduport\Elise\Frontend\model\MailManager;
-use Poissonnerieduport\Elise\Frontend\model\RecetteManager;
 
-require_once('model/MailManager.php');
-require_once('model/RecetteManager.php');
+
+require_once('../model/MailManager.php');
+require_once('../model/RecetteManager.php');
 
 function showHomePage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 	
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 	require('view/frontend/homePage.php');
 }
 
 function contactPage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
-	require('view/frontend/contactView.php');
+	require('../view/frontend/contactView.php');
 }
 
 function notreBancPage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
-	require('view/frontend/surLeBancView.php');
+	require('../view/frontend/surLeBancView.php');
 }
 function platCuisinePage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
-	require('view/frontend/platsCuisineView.php');
+	require('../view/frontend/platsCuisineView.php');
 }
 function nosPlateauxPage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
-	require('view/frontend/plateauxView.php');
+	require('../view/frontend/plateauxView.php');
 }
 function nosRecettesPage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
-	require('view/frontend/recetteView.php');
+	require('../view/frontend/recetteView.php');
 }
 function notreEquipePage()
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
-	require('view/frontend/equipeView.php');
+	require('../view/frontend/equipeView.php');
 }
 function uneRecettePage($recetteId)
 {
-	$recetteManager = new RecetteManager();
+	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recette = $recetteManager->getRecette($recetteId);
 	
 	$recettes = $recetteManager->getRecettes();
-	$recettes = $recettes->fetchAll();
 
 	if (!empty($recette))
 	{
-		require('view/frontend/recetteBlogView.php');
+		require('../view/frontend/recetteBlogView.php');
 	}
 	else 
 	{
@@ -90,7 +81,7 @@ function uneRecettePage($recetteId)
 
 function sentMail($subject, $name, $mail, $content)
 {
-	$mailManager = new MailManager();
+	$mailManager = new \Poissonnerieduport\Elise\Frontend\Model\MailManager();
 
 	$affectedLines = $mailManager->sendMail($subject, $name, $mail, $content);
 	if ($affectedLines === false) 

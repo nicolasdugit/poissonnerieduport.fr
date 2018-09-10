@@ -9,7 +9,8 @@ class RecetteManager extends Manager
 	{
 		$db = $this->dbConnect();
 		$req = $db->query('SELECT id, recette_title, recette_img, recette_subtitle, recette_time, recette_portion, recette_instruction, recette_author FROM boot_recette ORDER BY id DESC');
-		return $req;
+		$recettes = $req->fetchAll();
+		return $recettes;
 	}
 
 	public function getRecette($recetteId)
