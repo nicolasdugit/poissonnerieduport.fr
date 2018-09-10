@@ -26,7 +26,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-3.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-3.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -36,7 +36,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-4.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-4.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -46,7 +46,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-5.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-5.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -56,7 +56,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-6.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-6.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -66,7 +66,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-7.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-7.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -76,7 +76,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-8.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-8.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -90,7 +90,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-9.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-9.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -100,7 +100,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-10.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-10.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -110,7 +110,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-11.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-11.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -120,7 +120,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-12.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-12.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -130,7 +130,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-13.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-13.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -140,7 +140,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dish-14.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dish-14.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -158,7 +158,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-1.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-1.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -168,7 +168,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-2.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-2.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -178,7 +178,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-3.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-3.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -188,7 +188,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-4.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-4.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -198,7 +198,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-5.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-5.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -208,7 +208,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-6.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-6.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -222,7 +222,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-7.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-7.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -232,7 +232,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-8.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-8.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -242,7 +242,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-9.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-9.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -252,7 +252,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-10.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-10.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -262,7 +262,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-11.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-11.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -272,7 +272,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/dessert-12.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/dessert-12.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -290,7 +290,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-1.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-1.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -300,7 +300,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-2.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-2.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -310,7 +310,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-3.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-3.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -320,7 +320,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-4.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-4.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -330,7 +330,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-5.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-5.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -340,7 +340,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-6.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-6.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -354,7 +354,7 @@
 									<ul class="menu-dish">
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-7.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-7.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$25.99</span>
@@ -364,7 +364,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-8.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-8.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$30.99</span>
@@ -374,7 +374,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-9.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-9.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$40.00</span>
@@ -384,7 +384,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-10.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-10.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -394,7 +394,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-11.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-11.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
@@ -404,7 +404,7 @@
 					              </li>
 					              <li>
 					                <figure class="dish-entry">
-					                	<div class="dish-img" style="background-image: url(public/images/drink-12.jpg);"></div>
+					                	<div class="dish-img" style="background-image: url(../../../public/images/drink-12.jpg);"></div>
 					                </figure>
 					                <div class="text">
 					                  <span class="price">$20.50</span>
