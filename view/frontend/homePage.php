@@ -30,7 +30,7 @@
 <!-- Map -->
 <?php include('view/frontend/templates/map.php'); ?>
 <!-- Mapbox -->
-<script src="/public/js/mapbox.js"></script>
+<script src="public/js/mapbox.js"></script>
 <!-- /content -->
 <?php $content = ob_get_clean(); ?>
 <?php require('view/frontend/templates/template.php'); ?>
