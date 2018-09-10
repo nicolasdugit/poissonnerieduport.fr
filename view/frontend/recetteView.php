@@ -5,7 +5,7 @@
 
 <?php ob_start(); ?>
 
-<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
+<?php require('view/frontend/templates/headerSecondary.php'); ?>
 
 			<div id="colorlib-contact">
 				<div class="container">
@@ -19,10 +19,10 @@
 <?php foreach ($recettes as $recette) : ?>
 						<div class="col-md-4">
 							<article class="article-entry">
-								<a href="../../index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>" class="blog-img" style="background-image: url(<?= $recette['recette_img'] ?>);"></a>
+								<a href="index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>" class="blog-img" style="background-image: url(<?= $recette['recette_img'] ?>);"></a>
 								<div class="desc">
 									<p class="admin"><span>Ecrit par :</span> <span><?= htmlspecialchars($recette['recette_author']) ?></span></p>
-									<h2><a href="../../index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h2>
+									<h2><a href="index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h2>
 									<p><?= htmlspecialchars($recette['recette_subtitle']) ?></p>
 								</div>
 							</article>
@@ -34,4 +34,4 @@
 
 <?php $content = ob_get_clean(); ?>
 
-<?php require('../../view/frontend/templates/template.php'); ?>
+<?php require('view/frontend/templates/template.php'); ?>

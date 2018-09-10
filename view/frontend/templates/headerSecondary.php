@@ -3,7 +3,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="colorlib-navbar-brand text-center">
-								<a class="colorlib-logo" href="../../../index.php"><i style="top: 0;" class="fas fa-fish"></i><span>Eli</span><span>Se</span></a>
+								<a class="colorlib-logo" href="index.php"><i style="top: 0;" class="fas fa-fish"></i><span>Eli</span><span>Se</span></a>
 							</div>
 							<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 						</div>
@@ -13,7 +13,7 @@
 			<aside id="colorlib-hero" style="height: 400px; min-height: 400px;">
 				<div class="flexslider">
 					<ul class="slides" style="height: 400px;">
-				   	<li style="background-image: url(../../../public/images/label1.jpg);">
+				   	<li style="background-image: url(public/images/label1.jpg);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -23,7 +23,7 @@
 					   						<hr>
 					   						<br>
 						   					<h1><?= $pageTitle ?></h1>
-						   					<p><span><a href="../../../index.php">Accueil</a></span> <span><?= $pageTitle ?></span></p>
+						   					<p><span><a href="index.php">Accueil</a></span> <span><?= $pageTitle ?></span></p>
 						   					<hr>
 						   					<div class="desc2"></div>
 					   					</div>

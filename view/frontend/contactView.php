@@ -3,9 +3,9 @@
 <?php $keywords = 'Poissonnerie du Port Chez Elise' ?>
 <?php $pageTitle = 'Nous Contacter' ?>
 <?php ob_start(); ?>
-<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
+<?php require('view/frontend/templates/headerSecondary.php'); ?>
 
-<?php include('../../view/frontend/templates/contactBar.php'); ?>
+<?php include('view/frontend/templates/contactBar.php'); ?>
 
 
 
@@ -25,7 +25,7 @@
 										<li><span><i class="icon-map5"></i></span>12 rue du Port de Cassy 33138 Lanton, Aquitaine, France</li>
 										<li><span><i class="icon-phone4"></i></span>05 57 70 70 49</li>
 										<li><span><i class="icon-envelope2"></i></span><a href="#">elise@poissonnerieduport.fr</a></li>
-										<li><span><i class="icon-globe3"></i></span><a href="../../index.php">www.poissonnerieduport.fr</a></li>
+										<li><span><i class="icon-globe3"></i></span><a href="index.php">www.poissonnerieduport.fr</a></li>
 									</ul>
 								</div>
 								<div class="col-md-7 col-md-push-1 animate-box">
@@ -66,7 +66,7 @@
 				</div>
 				<!-- mapbox -->
 				<div id='map' style="height: 600px !important;"  class="colorlib-map"></div>
-				<script src="../../public/js/mapbox.js"></script>
+				<script src="public/js/mapbox.js"></script>
 			</div>
 <?php $content = ob_get_clean(); ?>
-<?php require('../../view/frontend/templates/template.php'); ?>
+<?php require('view/frontend/templates/template.php'); ?>

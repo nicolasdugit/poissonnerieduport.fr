@@ -1,14 +1,14 @@
 <?php
 
-require_once('../model/MailManager.php');
-require_once('../model/RecetteManager.php');
+require_once('model/MailManager.php');
+require_once('model/RecetteManager.php');
 
 function showHomePage()
 {
 	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 	
 	$recettes = $recetteManager->getRecettes();
-	require('../view/frontend/homePage.php');
+	require('view/frontend/homePage.php');
 }
 
 function contactPage()
@@ -16,7 +16,7 @@ function contactPage()
 	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
 
 	$recettes = $recetteManager->getRecettes();
-	require('../view/frontend/contactView.php');
+	require('view/frontend/contactView.php');
 }
 
 function notreBancPage()
@@ -25,7 +25,7 @@ function notreBancPage()
 
 	$recettes = $recetteManager->getRecettes();
 
-	require('../view/frontend/surLeBancView.php');
+	require('view/frontend/surLeBancView.php');
 }
 function platCuisinePage()
 {
@@ -33,7 +33,7 @@ function platCuisinePage()
 
 	$recettes = $recetteManager->getRecettes();
 
-	require('../view/frontend/platsCuisineView.php');
+	require('view/frontend/platsCuisineView.php');
 }
 function nosPlateauxPage()
 {
@@ -41,7 +41,7 @@ function nosPlateauxPage()
 
 	$recettes = $recetteManager->getRecettes();
 
-	require('../view/frontend/plateauxView.php');
+	require('view/frontend/plateauxView.php');
 }
 function nosRecettesPage()
 {
@@ -49,7 +49,7 @@ function nosRecettesPage()
 
 	$recettes = $recetteManager->getRecettes();
 
-	require('../view/frontend/recetteView.php');
+	require('view/frontend/recetteView.php');
 }
 function notreEquipePage()
 {
@@ -57,7 +57,7 @@ function notreEquipePage()
 
 	$recettes = $recetteManager->getRecettes();
 
-	require('../view/frontend/equipeView.php');
+	require('view/frontend/equipeView.php');
 }
 function uneRecettePage($recetteId)
 {
@@ -69,7 +69,7 @@ function uneRecettePage($recetteId)
 
 	if (!empty($recette))
 	{
-		require('../view/frontend/recetteBlogView.php');
+		require('view/frontend/recetteBlogView.php');
 	}
 	else 
 	{

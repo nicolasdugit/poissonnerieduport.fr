@@ -5,7 +5,7 @@
 
 <?php ob_start(); ?>
 
-<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
+<?php require('view/frontend/templates/headerSecondary.php'); ?>
 
 <div id="colorlib-contact">
 	<div class="container">
@@ -40,7 +40,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/formule20-double.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-double.jpg);">
 						</div>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/formule24-double.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule24-double.jpg);">
 						</div>
 					</div>
 				</div>
@@ -108,7 +108,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/formule20-triple.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.jpg);">
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/Acomposer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -165,7 +165,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/plateau-huitres2.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateau-huitres2.jpg);">
 						</div>
 					</div>
 				</div>
@@ -176,7 +176,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(../../public/images/plateaufruitdemer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateaufruitdemer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -202,4 +202,4 @@
 
 <?php $content = ob_get_clean(); ?>
 
-<?php require('../../view/frontend/templates/template.php'); ?>
+<?php require('view/frontend/templates/template.php'); ?>
