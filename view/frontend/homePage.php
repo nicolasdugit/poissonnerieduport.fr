@@ -3,9 +3,9 @@
 <?php $keywords = 'Poissonnerie du Port Chez Elise' ?>
 <?php ob_start(); ?>
 <!-- header -->
-<?php include('view/frontend/templates/headerMain.php'); ?>
+<?php include('../../view/frontend/templates/headerMain.php'); ?>
 <!-- AboutUs -->
-<?php include('view/frontend/templates/aboutUs.php'); ?>
+<?php include('../../view/frontend/templates/aboutUs.php'); ?>
 <!-- Nos Produits -->
 <?php 
 	$titleSpe = 'Nos Produits' ;
@@ -19,18 +19,18 @@
 	$imgSpe3 = 'public/images/nos-plateaux.jpg' ;
 	$imgSpe3Desc = 'Les Plateaux';
 	$linkSpe3 = "nosPlateaux";
-	include('view/frontend/templates/specialities.php');
+	include('../../view/frontend/templates/specialities.php');
 ?>
 <!-- Video -->
-<?php include('view/frontend/templates/video.php'); ?>
+<?php include('../../view/frontend/templates/video.php'); ?>
 <!-- Recettes -->
-<?php include('view/frontend/templates/recettes.php'); ?>
+<?php include('../../view/frontend/templates/recettes.php'); ?>
 <!-- testimonies -->
-<?php include('view/frontend/templates/testimonies.php'); ?>
+<?php include('../../view/frontend/templates/testimonies.php'); ?>
 <!-- Map -->
-<?php include('view/frontend/templates/map.php'); ?>
+<?php include('../../view/frontend/templates/map.php'); ?>
 <!-- Mapbox -->
-<script src="public/js/mapbox.js"></script>
+<script src="../../public/js/mapbox.js"></script>
 <!-- /content -->
 <?php $content = ob_get_clean(); ?>
-<?php require('view/frontend/templates/template.php'); ?>
+<?php require('../../view/frontend/templates/template.php'); ?>
