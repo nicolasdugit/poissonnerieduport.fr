@@ -5,13 +5,13 @@
 
 <?php ob_start(); ?>
 
-<?php require('view/frontend/templates/headerSecondary.php'); ?>
+<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
 
 <div id="colorlib-contact">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
-				<span class="icon"><i style="top: 0px;" class="fas fa-fish"></i></span>
+				<span class="icon"><i style="top: 0;" class="fas fa-fish"></i></span>
 				<h2>Découvrez un large choix de poissons, coquillages et crustacés. Arrivage quotidien : Fraîcheur, qualité, variété et saisonnalité garantie</h2>
 			</div>
 		</div>
@@ -31,7 +31,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/poisson.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(../../public/images/poisson.jpg);">
 						</div>
 					</div>
 				</div>
@@ -42,7 +42,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/huitre.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(../../public/images/huitre.jpg);">
 						</div>
 					</div>
 				</div>
@@ -77,7 +77,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/fruits-de-mer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(../../public/images/fruits-de-mer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/vivier.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(../../public/images/vivier.jpg);">
 						</div>
 					</div>
 				</div>
@@ -123,7 +123,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/conserve.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(../../public/images/conserve.jpg);">
 						</div>
 					</div>
 				</div>
@@ -134,4 +134,4 @@
 
 <?php $content = ob_get_clean(); ?>
 
-<?php require('view/frontend/templates/template.php'); ?>
+<?php require('../../view/frontend/templates/template.php'); ?>
