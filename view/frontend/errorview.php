@@ -4,7 +4,7 @@
 <?php $keywords = 'Poissonnerie du Port Chez Elise' ?>
 <?php $pageTitle = 'Page d\'erreur </br>' . $errorMessage?>
 
-<?php require('view/frontend/templates/headerSecondary.php'); ?>
+<?php require('../../view/frontend/templates/headerSecondary.php'); ?>
 <?php ob_start(); ?>
 
 <?php $content = ob_get_clean(); ?>
