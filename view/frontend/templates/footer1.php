@@ -6,10 +6,10 @@
 							<hr>
 <?php foreach (array_slice($recettes, 0, 3) as $recette) : ?>
 							<div class="f-entry">
-								<a href="index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>" class="featured-img" style="background-image: url(<?= $recette['recette_img'] ?>);"></a>
+								<a href="../../../index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>" class="featured-img" style="background-image: url(<?= $recette['recette_img'] ?>);"></a>
 								<div class="desc">
 									<span><?= htmlspecialchars($recette['recette_author']) ?></span>
-									<h3><a href="index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h3>
+									<h3><a href="../../../index.php?page=uneRecette&amp;recetteId=<?= $recette['id'] ?>"><?= htmlspecialchars($recette['recette_title']) ?></a></h3>
 								</div>
 							</div>
 <?php endforeach ; ?>
