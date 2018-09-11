@@ -59,6 +59,14 @@ function notreEquipePage()
 
 	require('view/frontend/equipeView.php');
 }
+function mentionsLegalesPage()
+{
+    $recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
+
+    $recettes = $recetteManager->getRecettes();
+
+    require('view/frontend/mentionsLegales.php');
+}
 function uneRecettePage($recetteId)
 {
 	$recetteManager = new \Poissonnerieduport\Elise\Frontend\Model\RecetteManager();
