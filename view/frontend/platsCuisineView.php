@@ -119,6 +119,7 @@
 								<h4>Envie d’un plat cuisiné spécifique ? Besoin de nos services traiteur pour une réception ?</h4>
 									<br>
 								<h4><a href="index.php?page=contact">N'hésitez pas à nous contacter</a></h4>
+                                <h4>Vous pouvez commander la paëlla ou tout autre plat préparé (en petite ou grande quantité), minimum 48h à l'avance.</h4>
 							</blockquote>
 						</div>
 					</div>
