@@ -1,4 +1,4 @@
-			<div class="colorlib-introduction" style="background-image: url(public/images/exterieur.jpg);" data-stellar-background-ratio="0.5">
+			<div class="colorlib-introduction" style="background-image: url(public/images/exterieur4.jpg);" data-stellar-background-ratio="0.5">
 				<div class="overlay"></div>
 				<div class="container">
 					<div class="row">
