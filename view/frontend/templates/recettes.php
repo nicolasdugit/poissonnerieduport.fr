@@ -5,7 +5,7 @@
 						<div class="col-md-6 col-md-offset-3 text-center animate-box intro-heading">
 							<span class="icon"><i class="flaticon-cutlery"></i></span>
 							<h2>les recettes d'Elise</h2>
-							<p>Quelques idées simples pour déguster les produits du bassin.</p>
+							<p><span>Quelques idées simples pour déguster les produits du bassin.</span></p>
 						</div>
 					</div>
 					<div class="row">
