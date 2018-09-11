@@ -2,7 +2,7 @@
 				<div id="footer" style="padding-top: 20px; padding-bottom: 20px;" >
 					<div class="container" style="font-size: 0.8em;">
 						<div class="col-md-2">
-							<h2>Mentions Légales</h2>
+                            <h2><a href="index.php?page=mentionsLegales">Mentions Légales</a></h2>
 						</div>
 						<div class="col-md-5">
 							<div class="col-md-12 text-center" >

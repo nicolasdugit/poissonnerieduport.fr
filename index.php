@@ -1,5 +1,4 @@
 <?php
-
 require('controller/frontend.php');
 
 try {
@@ -22,6 +21,9 @@ try {
 		elseif ($_GET['page'] == "notreEquipe") {
 			notreEquipePage();
 		}
+        elseif ($_GET['page'] == "mentionsLegales") {
+            MentionsLegalesPage();
+        }
 		elseif ($_GET['page'] == "uneRecette") {
 			if (isset($_GET["recetteId"]) && $_GET['recetteId'] > 0)
 			{

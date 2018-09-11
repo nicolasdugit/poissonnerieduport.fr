@@ -13,7 +13,7 @@
 	$imgSpe1 = 'public/images/banc.jpg' ;
 	$imgSpe1Desc = 'Sur le Banc';
 	$linkSpe1 = "notreBanc";
-	$imgSpe2 = 'public/images/plats-cuisinés.jpg' ;
+	$imgSpe2 = 'public/images/plats-cuisines.jpg' ;
 	$imgSpe2Desc = 'Plats Cuisinés';
 	$linkSpe2 = "platCuisine";
 	$imgSpe3 = 'public/images/nos-plateaux.jpg' ;

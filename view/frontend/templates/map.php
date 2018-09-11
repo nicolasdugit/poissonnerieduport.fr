@@ -9,4 +9,20 @@
 					</div>
 				</div>
 			</div>
-			<div id='map' style=" margin-bottom: 50px;" class="colorlib-map"></div>
+            <div class="container" style="margin-bottom: 50px" >
+                <div class="col-md-6">
+
+                    <h2>Contactez-Nous !</h2>
+                    <address>
+                     Poissonnerie du Port chez Elise<br>12 rue du port de Cassy,<br>33138 Lanton<br>Tel : 05 57 70 70 49<br>Mail : elise@poissonnerieduport.fr
+                    </address>
+                    <br>
+                    <h2>Ouverture</h2>
+                    <p>
+                        Du Mardi au Samedi de 9h à 13h et de 16h à 19h30 <br>Le Dimanche de 9h à 13h <br>Fermé le Lundi
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div id='map' style=" margin-bottom: 0; border-radius: 20px;"></div>
+                </div>
+            </div>

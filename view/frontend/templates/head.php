@@ -43,7 +43,7 @@
 		<link rel="stylesheet" href="public/fonts/flaticon/font/flaticon.css">
 		<!-- Date Picker -->
 		<link rel="stylesheet" href="public/css/bootstrap-datepicker.css">
-		<link rel="stylesheet" href="public/css/style.css">	
+		<link rel="stylesheet" href="public/css/style.css">
 		<!-- Fontawesome -->
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 		<!-- Mapbox -->
@@ -53,5 +53,5 @@
 		<script src="public/js/modernizr-2.6.2.min.js"></script>
 		<!-- FOR IE9 below -->
 		<!--[if lt IE 9]>
-		<script src="js/respond.min.js"></script>
+		<script src="public/js/respond.min.js"></script>
 		<![endif]-->
