@@ -211,3 +211,10 @@
 
 
 }());
+
+/* JAVASCRIPT PERSO */
+
+var toHome = document.getElementById("to-home");
+toHome.addEventListener("click", function () {
+    window.scrollTo(0,0);
+});
