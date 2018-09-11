@@ -26,7 +26,7 @@
 						</div>
 						<div class="col-md-4 text-center animate-box">
 							<div class="chef-wrap">
-								<div class="chef-img" style="background: url(public/images/elise-estelle.jpg) right;"></div>
+								<div class="chef-img" style="background-image: url(public/images/elise-estelle.jpg); background-position: right"></div>
 								<div class="desc">
 									<h3>Estelle</h3>
 									<span>Estelle est arrivée en juin 2014, après un apprentissage en poissonnerie. Elle s’occupe, entre autres, de monter <a href="index.php?page=notreBanc">le banc de poisson</a> tous les matins, du service des clients, de la préparation des plateaux de fruits de mer, des marinades de poissons, … Dynamique, volontaire, passionnée, elle toujours envie de se perfectionner.</span>
@@ -35,7 +35,7 @@
 						</div>
 						<div class="col-md-4 text-center animate-box">
 							<div class="chef-wrap">
-								<div class="chef-img" style="background: url(public/images/pierre.jpg) left;"></div>
+								<div class="chef-img" style="background-image: url(public/images/pierre.jpg); background-position: left;"></div>
 								<div class="desc">
 									<h3>Pierre</h3>
 									<span>Pierre, arrivé en remplacement en 2015, fait dorénavant partie de l’équipe. Il a occupé auparavant de nombreux postes : cuisinier, ostréiculteur, poissonnier, et a su apporter son expérience au service de la poissonnerie. Il s’occupe principalement de la <a href="index.php?page=platCuisine">partie traiteur</a> (c’est un fin cuisinier … et blagueur) mais aussi du service des clients et préparation des plateaux de fruits de mer.</span>
