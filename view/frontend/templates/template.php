@@ -5,6 +5,7 @@
 	</head>
 	<body>
 <?php include('view/frontend/templates/navbar.php'); ?>
+<?php include('view/frontend/templates/flecheHaut.php'); ?>
 		<div id="colorlib-page">
 			<?= $content ?>
 			<!-- footer 1 -->
