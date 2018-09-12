@@ -1,5 +1,6 @@
 .idea/
 model/Manager.php
+model/dbConfig.php
 admin/model/Manager.php
 admin/.htaccess
 admin/.htpasswd
