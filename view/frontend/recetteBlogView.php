@@ -32,7 +32,7 @@
 				<p><?= htmlspecialchars($recette['recette_time']) ?> min</p>
 				<h4>Nombre de portions :</h4>
 				<p><?= htmlspecialchars($recette['recette_portion']) ?> personnes</p>
-				<h4>Ingrédients :</h4>
+				<!--<h4>Ingrédients :</h4>-->
 				<h4>Instructions :</h4>
 				<p><?= ($recette['recette_instruction']) ?></p>
 			</div>
