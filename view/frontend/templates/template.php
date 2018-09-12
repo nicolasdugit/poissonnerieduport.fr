@@ -37,7 +37,7 @@
 		<script src="public/js/main.js"></script>
         <!-- Cookies -->
         <script src="public/js/cookiechoices.js"></script>
-        <script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous offrir le meilleur service. En poursuivant votre navigation, vous acceptez l’utilisation des cookies.', 'J’accepte', 'En savoir plus', 'https://www.poissonnerieduport.fr/index.php?page=mentionsLegales');});</script>
+        <script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous offrir le meilleur service. En poursuivant votre navigation, vous acceptez l’utilisation des cookies.', 'J’accepte', 'En savoir plus', 'http://www.poissonnerieduport.fr/index.php?page=mentionsLegales');});</script>
 	</body>
 </html>
 
