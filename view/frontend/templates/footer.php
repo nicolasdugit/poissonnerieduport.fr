@@ -1,5 +1,5 @@
 			<footer>
-				<div id="footer" style="padding-top: 20px; padding-bottom: 20px;" >
+				<div id="footer" style="padding-top: 20px; padding-bottom: 20px; color: white;" >
 					<div class="container" style="font-size: 0.8em;">
 						<div class="col-md-2">
                             <h2><a href="index.php?page=mentionsLegales">Mentions Légales</a></h2>
