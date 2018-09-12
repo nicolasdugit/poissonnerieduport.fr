@@ -1,4 +1,4 @@
-			<div class="colorlib-about" style="background-color: grey; padding-bottom: 0;">
+			<div class="colorlib-about" style="background-color: #7c9db9; padding-bottom: 0;">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-pb-sm">
