@@ -2,6 +2,7 @@
 model/Manager.php
 model/dbConfig.php
 admin/model/Manager.php
+admin/model/dbConfig.php
 admin/.htaccess
 admin/.htpasswd
 public/images/recettes
