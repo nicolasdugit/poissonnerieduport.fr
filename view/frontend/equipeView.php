@@ -20,7 +20,7 @@
 								<div class="chef-img" style="background-image: url(public/images/elise.jpg);"></div>
 								<div class="desc">
 									<h3>Elise</h3>
-									<span>Après des études de Biologie Marine, Élise s'installe sur le Bassin en 2008 et commence par travailler sur le port et la criée d'Arcachon, en contact notamment avec les pêcheurs. Elle y découvre le métier de marin pêcheur, ses réalités, les différentes espèces locales, les techniques de pêche, le fonctionnement de la filière marée ... C'est là aussi qu'elle rencontre son mari, Christophe Michaud, pêcheur passionné du Bassin, à bord de son bateau, le KIKI III.</span>
+									<p class="justify">Après des études de Biologie Marine, Élise s'installe sur le Bassin en 2008 et commence par travailler sur le port et la criée d'Arcachon, en contact notamment avec les pêcheurs. Elle y découvre le métier de marin pêcheur, ses réalités, les différentes espèces locales, les techniques de pêche, le fonctionnement de la filière marée ... C'est là aussi qu'elle rencontre son mari, Christophe Michaud, pêcheur passionné du Bassin, à bord de son bateau, le KIKI III.</p>
 								</div>
 							</div>
 						</div>
@@ -29,7 +29,7 @@
 								<div class="chef-img" style="background-image: url(public/images/elise-estelle.jpg); background-position: right"></div>
 								<div class="desc">
 									<h3>Estelle</h3>
-									<span>Estelle est arrivée en juin 2014, après un apprentissage en poissonnerie. Elle s’occupe, entre autres, de monter <a href="index.php?page=notreBanc">le banc de poisson</a> tous les matins, du service des clients, de la préparation des plateaux de fruits de mer, des marinades de poissons, … Dynamique, volontaire, passionnée, elle toujours envie de se perfectionner.</span>
+									<p class="justify">Estelle est arrivée en juin 2014, après un apprentissage en poissonnerie. Elle s’occupe, entre autres, de monter <a href="index.php?page=notreBanc">le banc de poisson</a> tous les matins, du service des clients, de la préparation des plateaux de fruits de mer, des marinades de poissons, … Dynamique, volontaire, passionnée, elle toujours envie de se perfectionner.</p>
 								</div>
 							</div>
 						</div>
@@ -38,7 +38,7 @@
 								<div class="chef-img" style="background-image: url(public/images/pierre.jpg); background-position: left;"></div>
 								<div class="desc">
 									<h3>Pierre</h3>
-									<span>Pierre, arrivé en remplacement en 2015, fait dorénavant partie de l’équipe. Il a occupé auparavant de nombreux postes : cuisinier, ostréiculteur, poissonnier, et a su apporter son expérience au service de la poissonnerie. Il s’occupe principalement de la <a href="index.php?page=platCuisine">partie traiteur</a> (c’est un fin cuisinier … et blagueur) mais aussi du service des clients et préparation des plateaux de fruits de mer.</span>
+									<p class="justify">Pierre, arrivé en remplacement en 2015, fait dorénavant partie de l’équipe. Il a occupé auparavant de nombreux postes : cuisinier, ostréiculteur, poissonnier, et a su apporter son expérience au service de la poissonnerie. Il s’occupe principalement de la <a href="index.php?page=platCuisine">partie traiteur</a> (c’est un fin cuisinier … et blagueur) mais aussi du service des clients et préparation des plateaux de fruits de mer.</p>
 								</div>
 							</div>
 						</div>
@@ -51,13 +51,13 @@
 						</div>
 					</div>
 					<div class="row">
-						<span>En Décembre 2010, Elise reprend la Poissonnerie de Cassy avec l'envie de faire partager sa passion pour le monde marin, la pêche et les produits de la mer. Ses mots d’ordre sont :</span>
+						<p class="justify">En Décembre 2010, Elise reprend la Poissonnerie de Cassy avec l'envie de faire partager sa passion pour le monde marin, la pêche et les produits de la mer. Ses mots d’ordre sont :</p>
 						<ul>
 							<li>être au service et à l’écoute du client, le conseiller au mieux</li>
 							<li>proposer des produits de qualité, locaux dans la mesure du possible</li>
 							<li>être transparente sur l’origine des produits</li>
 						</ul>
-						<span>Le métier de poissonnier est difficile et exigeant qui demande de la rigueur et du professionnalisme à chaque instant mais il est aussi très passionnant de par la noblesse et la diversité des produits travaillés, la relation de confiance qui s’établit avec les clients et également les partenaires de la filière, les petits coups de stress au moment de la saison ou des fêtes de Noël mais la satisfaction aussi après du travail accompli.</span>
+						<p class="justify">Le métier de poissonnier est difficile et exigeant qui demande de la rigueur et du professionnalisme à chaque instant mais il est aussi très passionnant de par la noblesse et la diversité des produits travaillés, la relation de confiance qui s’établit avec les clients et également les partenaires de la filière, les petits coups de stress au moment de la saison ou des fêtes de Noël mais la satisfaction aussi après du travail accompli.</p>
 					</div>
 				</div>
 			</div>

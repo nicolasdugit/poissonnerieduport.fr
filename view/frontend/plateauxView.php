@@ -1,7 +1,7 @@
 <?php $title = 'Bienvenue à la Poissonnerie du Port Chez Elise' ?>
 <?php $description = 'Bienvenue à la poissonnerie du port Chez Élise. Élise vous accueille dans sa poissonnerie située à Lanton sur le port de Cassy, au cœur du bassin d\'Arcachon' ?>
 <?php $keywords = 'Poissonnerie du Port Chez Elise' ?>
-<?php $pageTitle = 'Les plateaux "tout faits"' ?>
+<?php $pageTitle = 'Les Plateaux de Fruits de Mer' ?>
 
 <?php ob_start(); ?>
 <?php require('view/frontend/templates/headerSecondary.php'); ?>
@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 				<span class="icon"><i style="top: 0;" class="fas fa-fish"></i></span>
-				<h2>Nos Plateaux de fruits de mer</h2>
+				<h2>Nos Compositions</h2>
 			</div>
 		</div>
 		<div class="row">
@@ -127,7 +127,7 @@
 				<div class="row">
 					<div class="about-desc">
 						<div class="col-md-12 col-md-offset-0 animate-box intro-heading">
-							<h2>PLATEAU "TOUT CUITS"</h2>
+							<h2>LE TOUT CUIT (15EUROS/PERS)</h2>
 						</div>
 						<div class="col-md-12 animate-box">
 							<ul>
@@ -153,10 +153,10 @@
 							<h2>PLATEAUX D'HUITRES</h2>
 						</div>
 						<div class="col-md-12 animate-box">
-							<span>Pour vos réceptions (mariage, baptême, anniversaire, repas, ...), commander votre buffet d’huîtres !!! <br>
-							Plateaux d’huîtres ouvertes sur un lit de glace et d’algue avec citron. </span>
-							<span>Livraison possible à domicile (d’Audenge à Claouey). <br>
-							Prix selon quantités et tailles d'huîtres.</span>
+							<p class="justify">Pour vos réceptions (mariage, baptême, anniversaire, repas, ...), commander votre buffet d’huîtres !!! <br>
+							Plateaux d’huîtres ouvertes sur un lit de glace et d’algue avec citron. </p>
+							<p class="justify">Livraison possible à domicile (d’Audenge à Claouey).
+							Prix selon quantités et tailles d'huîtres.</p>
 						</div>
 					</div>
 				</div>
@@ -187,10 +187,10 @@
 							<h2>COMPOSEZ VOUS MEME</h2>
 						</div>
 						<div class="col-md-12 animate-box">
-							<span>Les Formules sont modifiables selon vos goûts.<br>
-							N’hésitez pas à composer vous même votre plateau de fruits de mer !!</span>
-							<span> N'oubliez pas de passer commande 24h à l'avance.<br>
-							Les plateaux sont consignés (2 euros).</span>
+							<p class="jusify">Les Formules sont modifiables selon vos goûts.<br>
+							N’hésitez pas à composer vous même votre plateau de fruits de mer !!</p>
+							<p class="jusify"> N'oubliez pas de passer commande 24h à l'avance.
+							Les plateaux sont consignés (2 euros).</p>
 						</div>
 					</div>
 				</div>

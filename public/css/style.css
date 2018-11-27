@@ -50,8 +50,12 @@ a {
 p, span {
   margin-bottom: 1.5em;
   font-weight: 400;
-  font-family: "Poppins", Arial, sans-serif; }
-
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 16px;
+   }
+.justify {
+  text-align: justify;
+}
 ul, ol {
   display: block;
   margin-bottom: 1.5em; }
