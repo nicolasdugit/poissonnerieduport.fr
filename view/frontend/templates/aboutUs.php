@@ -7,8 +7,8 @@
 									<div class="col-md-12 col-md-offset-0 animate-box intro-heading">
                                         <h3><span>Bienvenue à la Poissonnerie du Port Chez Elise</span></h3>
                                         <h2>Dégustez les saveurs du Bassin d'Arcachon</h2>
-                                        <h4>À la Poissonnerie du Port Chez Elise, nous vous servons depuis 2010</h4>
-                                        <p>Nous vous prosposons des <a href="index.php?page=notrebBanc">produits frais et de qualités </a> en arrivage quotidien des meilleures peches locales et francaises</p>
+                                        <h4 class="justify">À la Poissonnerie du Port Chez Elise, nous vous servons depuis 2010</h4>
+                                        <p class="justify">Nous vous prosposons des <a href="index.php?page=notrebBanc">produits frais et de qualités </a> en arrivage quotidien des meilleures peches locales et francaises</p>
 									</div>
 									<div class="col-md-12 animate-box">
 										<a href="index.php?page=notreEquipe" class="btn btn-primary btn-lg btn-learn">Notre Equipe</a>

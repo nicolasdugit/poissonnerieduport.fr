@@ -109,17 +109,16 @@
 					</div>
 					<div class="row">
 						<div class="col-md-10 col-md-offset-1 animate-box intro-heading">
-							<blockquote>
-								<h4>Nous varions notre gamme de plats cuisinés chaque semaine.</h4>
+							<blockquote >
+								<h4 class="justify">Nous varions notre gamme de plats cuisinés chaque semaine.</h4>
 									<hr>
-								<h4>Certains produits ne sont pas fait maison comme les anchois marinés, les accras de morue, la salade d’écrevisse, mais ce sont égalements des produits artisanaux et de qualité.</h4>
+								<h4 class="justify">Certains produits ne sont pas fait maison comme les anchois marinés, les accras de morue, la salade d’écrevisse, mais ce sont également des produits artisanaux et de qualité.</h4>
 									<hr>
-								<h4>Nous avons l’objectif de continuer à développer et étendre notre gamme traiteur afin de répondre à la demande croissante de la clientèle.</h4>
+								<h4 class="justify">Nous avons l’objectif de continuer à développer et étendre notre gamme traiteur afin de répondre à la demande croissante de la clientèle.</h4>
 									<hr>
-								<h4>Envie d’un plat cuisiné spécifique ? Besoin de nos services traiteur pour une réception ?</h4>
-									<br>
-								<h4><a href="index.php?page=contact">N'hésitez pas à nous contacter</a></h4>
-                                <h4>Vous pouvez commander la paëlla ou tout autre plat préparé (en petite ou grande quantité), minimum 48h à l'avance.</h4>
+								<h4 class="justify">Envie d’un plat cuisiné spécifique ? Besoin de nos services traiteur pour une réception ?</h4>
+								<h4><a href="index.php?page=contact" class="justify">N'hésitez pas à nous contacter</a></h4>
+                                <h4 class="justify">Vous pouvez commander la paëlla ou tout autre plat préparé (en petite ou grande quantité), minimum 48h à l'avance.</h4>
 							</blockquote>
 						</div>
 					</div>

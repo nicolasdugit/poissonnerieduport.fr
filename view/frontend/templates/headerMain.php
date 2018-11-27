@@ -22,8 +22,8 @@
 					   					<div class="desc">
 					   						<span class="icon"> <i style="top: 0;" class="fas fa-fish"></i> </span>
 						   					<h1>Bienvenue à la Poissonnerie Du Port <br> Chez Elise</h1>
-						   					<h3 style="color: white;">Toute l'année Elise et son équipe vous accueille sur le port de cassy</h3>
-						   					<p><a href="index.php?page=contact" class="btn btn-primary btn-lg btn-learn">Où nous trouver ?</a></p>
+						   					<h3 style="color: white;">Toute l'année, Elise et son équipe vous accueille sur le port de Cassy</h3>
+						   					<p><a style="font-weight: bold; font-size: 16px !important;" href="index.php?page=contact" class="btn btn-primary btn-lg btn-learn">Où nous trouver ?</a></p>
 						   					<div class="desc2"></div>
 					   					</div>
 					   				</div>
@@ -40,8 +40,8 @@
 					   					<div class="desc">
 					   						<span class="icon"><i class="flaticon-cutlery"></i></span>
 						   					<h1>Bienvenue à la Poissonnerie Du Port <br> Chez Elise</h1>
-						   					<h3 style="color: white;">Nos plats cuisinés sont réalisés dans notre cuisines avec des produits frais, de qualité et de saison</h3>
-						   					<p><a href="index.php?page=platCuisine" class="btn btn-primary btn-lg btn-learn">Nos plats cuisinés</a></p>
+						   					<h3 style="color: white;">Nos plats cuisinés sont réalisés dans notre cuisine avec des produits frais, de qualité et de saison</h3>
+						   					<p><a style="font-weight: bold; font-size: 16px !important;" href="index.php?page=platCuisine" class="btn btn-primary btn-lg btn-learn">Nos plats cuisinés</a></p>
 						   					<div class="desc2"></div>
 						   				</div>
 					   				</div>
@@ -49,7 +49,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(public/images/banc.jpg);">
+				   	<li style="background-image: url(public/images/banc2.jpg);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -59,7 +59,7 @@
 					   						<span class="icon"><i style="top: 0;" class="fas fa-fish"></i></span>
 						   					<h1>Bienvenue à la Poissonnerie Du Port <br> Chez Elise</h1>
 						   					<h3 style="color: white;">Venez découvrir un large choix de poissons, coquillages et crustacés mais aussi des plats cuisinés et des produits régionaux</h3>
-						   					<p><a href="index.php?page=notreBanc" class="btn btn-primary btn-lg btn-learn">Voir notre Banc</a></p>
+						   					<p><a style="font-weight: bold; font-size: 16px !important;" href="index.php?page=notreBanc" class="btn btn-primary btn-lg btn-learn">Voir notre Banc</a></p>
 						   					<div class="desc2"></div>
 						   				</div>
 					   				</div>
@@ -77,7 +77,7 @@
 					   						<span class="icon"><i class="flaticon-cutlery"></i></span>
 						   					<h1>Bienvenue à la Poissonnerie Du Port <br> Chez Elise</h1>
 						   					<h3 style="color: white;">Découvrez régulièrement ici les recettes d'Elise. Quelques idées simples pour déguster les produits du bassin.</h3>
-						   					<p><a href="index.php?page=nosRecettes" class="btn btn-primary btn-lg btn-learn">Nos Recettes</a></p>
+						   					<p><a style="font-weight: bold; font-size: 16px !important;" href="index.php?page=nosRecettes" class="btn btn-primary btn-lg btn-learn">Nos Recettes</a></p>
 						   					<div class="desc2"></div>
 						   				</div>
 					   				</div>

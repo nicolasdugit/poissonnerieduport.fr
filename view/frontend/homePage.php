@@ -18,7 +18,7 @@
 	$linkSpe2 = "platCuisine";
 	$imgSpe3 = 'public/images/nos-plateaux.jpg' ;
 	$imgSpe3Desc = 'Les Plateaux';
-	$linkSpe3 = "nosPlateaux";
+	$linkSpe3 = "nosPlateaux"; 
 	include('view/frontend/templates/specialities.php');
 ?>
 <!-- Video -->
