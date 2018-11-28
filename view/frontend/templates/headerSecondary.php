@@ -13,7 +13,7 @@
 			<aside id="colorlib-hero" style="height: 400px; min-height: 400px;">
 				<div class="flexslider">
 					<ul class="slides" style="height: 400px;">
-				   	<li style="background-image: url(public/images/label1.jpg);">
+				   	<li style="background-image: url(public/images/label1.webp);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">

@@ -13,7 +13,7 @@
 			<aside id="colorlib-hero">
 				<div class="flexslider">
 					<ul class="slides">
-				   	<li style="background-image: url(public/images/label1.jpg);">
+				   	<li style="background-image: url(public/images/label1.webp);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -31,7 +31,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(public/images/IMG_2133.jpg);">
+				   	<li style="background-image: url(public/images/plat1.webp);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -49,7 +49,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<li style="background-image: url(public/images/banc3.jpg);">
+				   	<li style="background-image: url(public/images/banc3.webp);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">
@@ -67,8 +67,7 @@
 					   		</div>
 				   		</div>
 				   	</li>
-				   	<!-- <li style="background-image: url(public/images/curry-poisson.jpg);"> -->
-				   	<li style="background-image: url(public/images/banc4.jpg);">
+				   	<li style="background-image: url(public/images/banc4.webp);">
 				   		<div class="overlay"></div>
 				   		<div class="container-fluid">
 				   			<div class="row">

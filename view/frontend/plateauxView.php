@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 				<span class="icon"><i style="top: 0;" class="fas fa-fish"></i></span>
-				<p >Les plateaux sont remis prêts à consommer (huitres ouvertes,...) et avec du citron, de la mayonniase et des rinces doigts. <br> Les plateaux en polystyrène sont consignés 2euros, consigne rendue au retour du plateau en magasin. <br> Merci de commander 24h à l'avance.</p>
+				<p >Les plateaux sont remis prêts à consommer (huitres ouvertes,...) et avec du citron, de la mayonnaise et des rince doigts. <br> Les plateaux en polystyrène sont consignés 2€, consigne rendue au retour du plateau en magasin. <br> Merci de commander 24h à l'avance.</p>
 				<h2>Nos Compositions</h2>
 				<p> Les compositions proposées représentent un bon repas pour une personne. <br>
 				Elles sont modifiables selon vos goûts (à voir en magasin).</p>
@@ -42,7 +42,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-double.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-double.webp);">
 						</div>
 					</div>
 				</div>
@@ -53,7 +53,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule24-double.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule24-double.webp);">
 						</div>
 					</div>
 				</div>
@@ -108,7 +108,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.webp);">
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.webp);">
 						</div>
 					</div>
 				</div>
@@ -171,7 +171,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.webp);">
 						</div>
 					</div>
 				</div>
@@ -182,7 +182,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.webp);">
 						</div>
 					</div>
 				</div>
@@ -229,7 +229,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/plateau-huitres2.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateau-huitres2.webp);">
 						</div>
 					</div>
 				</div>
@@ -240,7 +240,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/plateaufruitdemer.jpg);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateaufruitdemer.webp);">
 						</div>
 					</div>
 				</div>
