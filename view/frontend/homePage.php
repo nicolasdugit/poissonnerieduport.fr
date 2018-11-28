@@ -10,13 +10,13 @@
 <?php 
 	$titleSpe = 'Nos Produits' ;
 	$descriptionSpe	 = 'Retrouvez un large choix de produits de la mer';
-	$imgSpe1 = 'public/images/banc.jpg' ;
+	$imgSpe1 = 'public/images/banc.webp' ;
 	$imgSpe1Desc = 'Sur le Banc';
 	$linkSpe1 = "notreBanc";
-	$imgSpe2 = 'public/images/plats-cuisines.jpg' ;
+	$imgSpe2 = 'public/images/plats-cuisines.webp' ;
 	$imgSpe2Desc = 'Plats Cuisinés';
 	$linkSpe2 = "platCuisine";
-	$imgSpe3 = 'public/images/nos-plateaux.jpg' ;
+	$imgSpe3 = 'public/images/nos-plateaux.webp' ;
 	$imgSpe3Desc = 'Les Plateaux';
 	$linkSpe3 = "nosPlateaux"; 
 	include('view/frontend/templates/specialities.php');
