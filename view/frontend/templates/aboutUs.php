@@ -19,7 +19,7 @@
 						<div class="col-md-7">
 							<div class="row">
 								<div class="col-md-12 animate-box">
-									<div class="about-img rounded" style="background-image: url(public/images/exterieur3.webp); background-size: 100%;"></div>
+									<div class="about-img rounded" style="background-image: url(public/images/exterieur3.jpg); background-size: 100%;"></div>
 								</div>
 							</div>
 						</div>

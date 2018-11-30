@@ -41,7 +41,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/kiki3.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/kiki3.jpg);">
 						</div>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/huitre.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/huitre.jpg);">
 						</div>
 					</div>
 				</div>
@@ -91,7 +91,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/fruits-de-mer.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/fruits-de-mer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -102,7 +102,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/vivier.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/vivier.jpg);">
 						</div>
 					</div>
 				</div>
@@ -140,7 +140,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/conserve.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/conserve.jpg);">
 						</div>
 					</div>
 				</div>
