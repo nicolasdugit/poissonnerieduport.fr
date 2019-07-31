@@ -1,4 +1,5 @@
-var poissonnerie = [-1.05689, 44.71007]
+var poissonnerieCassy = [-1.05689, 44.71007]
+var poissonerieLege = [-1.152153, 44.790186]
 var bassin = [-1.1409, 44.6965]
 
 
@@ -12,5 +13,9 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoibmljb2xhc2R1cXVlc25lIiwiYSI6ImNqaTMyejI3ejE2d
 		});
 
 var marker = new mapboxgl.Marker()
-  .setLngLat(poissonnerie)
+  .setLngLat(poissonnerieCassy)
   .addTo(map);
+
+	var marker2 = new mapboxgl.Marker()
+	  .setLngLat(poissonerieLege)
+	  .addTo(map);

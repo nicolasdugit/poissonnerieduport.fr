@@ -23,6 +23,7 @@
 					   						<span class="icon"> <i style="top: 0;" class="fas fa-fish"></i> </span>
 						   					<h1>Bienvenue à la Poissonnerie Du Port <br> Chez Elise</h1>
 						   					<h3 style="color: white;">Toute l'année, Elise et son équipe vous accueille sur le port de Cassy</h3>
+												<h3 style="color: white;">Et à sa <b>nouvelle adresse</b> 41 Avenue de la Presqu'île à Lège-Cap-Ferret</h3>
 						   					<p><a style="font-weight: bold; font-size: 16px !important;" href="index.php?page=contact" class="btn btn-primary btn-lg btn-learn">Où nous trouver ?</a></p>
 						   					<div class="desc2"></div>
 					   					</div>
@@ -84,7 +85,7 @@
 					   			</div>
 					   		</div>
 				   		</div>
-				   	</li>	
+				   	</li>
 				  	</ul>
 				  	<div class="mouse">
 					   <a href="#" class="mouse-icon">

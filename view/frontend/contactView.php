@@ -18,23 +18,33 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 col-md-offset-0">
-                            <h3 class="animate-box">Une Question ? Une commande de <a href="index.php?page=nosPlateaux">plateaux de fruits de mer ?</a> Contactez-nous sans hésiter, notre équipe est a votre disposition </h3>
-                                <hr>
-                            <div class="row">
-								<div class="col-md-4 animate-box">
-									<h3>Notre adresse</h3>
-                                    <address>
-                                        <ul class="contact-info">
-                                        <li><span><i class="icon-map5"></i></span>12 rue du Port de Cassy 33138 Lanton, Aquitaine, France</li>
-                                        <li><span><i class="icon-phone4"></i></span>05 57 70 70 49</li>
-                                        <li><span><i class="icon-envelope2"></i></span><a href="#">elise@poissonnerieduport.fr</a></li>
-                                        <li><span><i class="icon-globe3"></i></span><a href="index.php">www.poissonnerieduport.fr</a></li>
-                                        </ul>
-                                    </address>
-                                </div>
-								<div class="col-md-7 col-md-push-1 animate-box">
+              <h3 class="animate-box">Une Question ? Une commande de <a href="index.php?page=nosPlateaux">plateaux de fruits de mer ?</a> Contactez-nous sans hésiter, notre équipe est a votre disposition </h3>
+              <hr>
+              <div class="row">
+								<h3>Nos 2 adresses</h3>
+								<div class="col-md-5 animate-box">
+	                  <address>
+                      <ul class="contact-info">
+                        <li><span><i class="icon-map5"></i></span>12 rue du Port de Cassy 33138 Lanton, Aquitaine, France</li>
+                        <li><span><i class="icon-phone4"></i></span>05 57 70 70 49</li>
+                        <li><span><i class="icon-envelope2"></i></span><a href="#">elise@poissonnerieduport.fr</a></li>
+                        <li><span><i class="icon-globe3"></i></span><a href="index.php">www.poissonnerieduport.fr</a></li>
+                      </ul>
+                    </address>
+                  </div>
+									<div class="col-md-5 animate-box">
+										<address>
+                      <ul class="contact-info">
+                        <li><span><i class="icon-map5"></i></span>41 Avenue de la Presqu'île, 33950 Lège-Cap-Ferret, Aquitaine, France</li>
+                        <li><span><i class="icon-phone4"></i></span>05 57 05 12 80</li>
+                        <li><span><i class="icon-envelope2"></i></span><a href="#">elise@poissonnerieduport.fr</a></li>
+                        <li><span><i class="icon-globe3"></i></span><a href="index.php">www.poissonnerieduport.fr</a></li>
+                      </ul>
+                    </address>
+									</div>
+							<!-- <div class="col-md-7 col-md-push-1 animate-box">
 									<div class="row">
-										<!--<form action="index.php?action=sentMail" method="post">-->
+
 										<form action="https://formspree.io/elise@poissonnerieduport.fr" method="post">
 											<div class="col-md-6">
 												<div class="form-group">
@@ -63,7 +73,7 @@
 											</div>
 										</form>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
