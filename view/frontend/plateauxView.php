@@ -42,7 +42,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-double.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-double.jpg);">
 						</div>
 					</div>
 				</div>
@@ -53,7 +53,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule24-double.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule24-double.jpg);">
 						</div>
 					</div>
 				</div>
@@ -108,7 +108,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.jpg);">
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -171,7 +171,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/formule20-triple.jpg);">
 						</div>
 					</div>
 				</div>
@@ -182,7 +182,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/Acomposer.jpg);">
 						</div>
 					</div>
 				</div>
@@ -229,7 +229,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/plateau-huitres2.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateau-huitres2.jpg);">
 						</div>
 					</div>
 				</div>
@@ -240,7 +240,7 @@
 			<div class="col-md-5">
 				<div class="row">
 					<div class="col-md-12 animate-box">
-						<div class="about-img about-img-2" style="background-image: url(public/images/plateaufruitdemer.webp);">
+						<div class="about-img about-img-2" style="background-image: url(public/images/plateaufruitdemer.jpg);">
 						</div>
 					</div>
 				</div>
