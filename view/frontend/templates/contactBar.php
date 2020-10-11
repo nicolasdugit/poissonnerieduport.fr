@@ -18,19 +18,12 @@
 									<i class="icon-clock4"></i>
 								</span>
 								<h2 class="h2_contactbar">Horaires d'ouverture</h2>
-<<<<<<< HEAD
 								<p class="p_contactbar">Mardi - Samedi</p>
 								<span class="p_contactbar">9h - 13h / </span>
 								<span class="p_contactbar">16h - 19h00</span>
 								<p class="p_contactbar">Dimanche</p>
 								<span class="p_contactbar">9h - 13h00</span>
 								<p class="p_contactbar">Lundi</p>
-=======
-								<p class="p_contactbar">Lundi - Samedi</p>
-								<span class="p_contactbar">8h30 - 13h / </span>
-								<!-- <span class="p_contactbar">16h - 19h30</span> -->
-								<p class="p_contactbar">Dimanche</p>
->>>>>>> 0d6273ddd409b60895f3493812c9318ee83af0db
 								<span class="p_contactbar">FERME</span>
 							</div>
 						</div>
